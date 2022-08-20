@@ -2,12 +2,11 @@
 
 - 💻 Cursando Ciências da Computação na Universidade Federal de Itajubá - UNIFEI
 - 🌱 Estudando Desenvolvimento Web: HTML, CSS, JS, Node e SQL
-- 📫 Contate-me pelo meu LinkedIn: https://www.linkedin.com/in/matmb/ 
 
 <div align="center">
   <a href="https://github.com/MatMB115">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatMB115&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatMB115&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=MatMB115&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatMB115&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 </div>
