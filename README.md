@@ -3,7 +3,7 @@
 - 💻 Dicente de Ciências da Computação na Universidade Federal de Itajubá - UNIFEI
 - 🌱 Estudando:
   - Desenvolvimento Web HTML, CSS, JS, Node, SQL e React
-  - Bancos de Dados Relacionais com PostgreSQL
+  - Banco de Dados Relacional com PostgreSQL
   - Teste de Software Unitário, Funcional, Estrutural e Não Funcional
   - Computação Gráfica com OpenGL
 
