@@ -7,11 +7,7 @@
   - Teste de Software Unitário, Funcional, Estrutural e Não Funcional
   - Computação Gráfica com OpenGL
 
-<div align="center">
-  <a href="https://github.com/MatMB115">
-  <img height="180em" width="52%" src="https://github-readme-stats.vercel.app/api?username=MatMB115&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatMB115&layout=compact&langs_count=6&theme=dark"/>
-</div>
+z
   
 </div>
 <div style="display: inline_block"><br>
