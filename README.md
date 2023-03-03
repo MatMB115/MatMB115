@@ -1,8 +1,11 @@
-### Olá! Eu sou o Martins
+### Salve! Martins aqui
 
-- 💻 Dicente de Ciências da Computação na Universidade Federal de Itajubá - UNIFEI
+- 💻 Curso Ciências da Computação na Universidade Federal de Itajubá - UNIFEI
 - 🌱 Estudando:
-  - Desenvolvimento Web HTML, CSS, JS, Node, SQL e React
+  - Desenvolvimento Web
+  - Java 11+
+  - Paradigmas de projeto
+  - Docker
 
 <div align="center">
   <a href="https://github.com/MatMB115">
