@@ -70,7 +70,7 @@
   - [Campo Minado com Design Patterns](https://github.com/MatMB115/minesweeper_mvc_patterns_com221) - Campo minado guiado pelos padrões de projeto MVC e Strategy, o jogo foi desenvolvido com Python 3 e a interface gráfica utiliza a biblioteca Qt5 da linguagem.
 - Python(Flask/SQLAlchemy/Apicalypse) e PostgreSQL:
   - [Script de Carga com API do IGDB](https://github.com/MatMB115/script_carga_igdb) - Script em python formulado para realizar a carga no banco de dados relacional com PostgreSQL e utilizando ORM SQLAlchemy.
-  - [Back-end do relatório Ad-Hoc]() - Desenvolvedor back-end da API personalizada que possibilita consultas dinâmicas às tabelas do banco de dados, permitindo aos usuários definirem suas próprias queries. Esta iniciativa visa proporcionar flexibilidade e autonomia aos usuários, facilitando a interação com o sistema de banco de dados de forma intuitiva e eficiente.
+  - [Back-end do relatório Ad-Hoc](https://github.com/MatMB115/ad_hoc_igdb_back_end) - Desenvolvedor back-end da API personalizada que possibilita consultas dinâmicas às tabelas do banco de dados, permitindo aos usuários definirem suas próprias queries. Esta iniciativa visa proporcionar flexibilidade e autonomia aos usuários, facilitando a interação com o sistema de banco de dados de forma intuitiva e eficiente.
   
 </div>
 <a href = "mailto:matmb@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
