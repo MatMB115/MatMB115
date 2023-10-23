@@ -61,14 +61,14 @@
 
 
 ## Alguns projetos que desenvolvi:
-- React/Nextjs, Tailwind, Prisma e PostgreSQL:
+- Nextjs(React), Tailwind, Prisma e PostgreSQL:
   - [RepiME](https://repime-web.vercel.app) - Desenvolvedor full stack na aplicação web RepiME que busca centralizar, gerenciar e organizar as informações sobre as vagas em Repúblicas e Kitnets disponı́veis na cidade e universidades suportadas.
     
   - [Ivanizia Castro Artesanatos](https://ivaniziacastro.shop) / [Ivanizia Castro Admin CMS](https://imgur.com/gallery/7vg5m1a) - Desenvolvedor full stack da aplicação CMS (cadastro de informações do site vitrine e estilização básica) e da vitrine virtual que busca expor os produtos de vestuário confeccionados.
 
 - Python e Qt5:
   - [Campo Minado com Design Patterns](https://github.com/MatMB115/minesweeper_mvc_patterns_com221) - Campo minado guiado pelos padrões de projeto MVC e Strategy, o jogo foi desenvolvido com Python 3 e a interface gráfica utiliza a biblioteca Qt5 da linguagem.
-- Flask/SQLAlchemy/Apicalypse/Python e PostgreSQL:
+- Python(Flask/SQLAlchemy/Apicalypse) e PostgreSQL:
   - [Script de Carga com API do IGDB](https://github.com/MatMB115/script_carga_igdb) - Script em python formulado para realizar a carga no banco de dados relacional com PostgreSQL e utilizando ORM SQLAlchemy.
   - [Back-end do relatório Ad-Hoc]() - Desenvolvedor back-end da API personalizada que possibilita consultas dinâmicas às tabelas do banco de dados, permitindo aos usuários definirem suas próprias queries. Esta iniciativa visa proporcionar flexibilidade e autonomia aos usuários, facilitando a interação com o sistema de banco de dados de forma intuitiva e eficiente.
   
