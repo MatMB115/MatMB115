@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/MatMB115">
-  <img height="180em" width="52%" src="https://github-readme-stats-new-beta.vercel.app/api?username=MatMB115&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" width="46%" src="https://github-readme-stats-new-beta.vercel.app/api/top-langs/?username=MatMB115&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" width="52%" src="https://github-readme-stats-roeejpem6-matmb115.vercel.app/api?username=MatMB115&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="180em" width="46%" src="https://github-readme-stats-roeejpem6-matmb115.vercel.app/api/top-langs/?username=MatMB115&layout=compact&langs_count=6&theme=dark"/>
 </div>
   
 </div>
