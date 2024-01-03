@@ -1,4 +1,4 @@
-## Salve! Martins aqui
+## Olá! Martins aqui
 
 - 💻 Curso Ciências da Computação na Universidade Federal de Itajubá - UNIFEI
 - 🌱 Estudando:
