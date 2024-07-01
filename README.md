@@ -2,9 +2,9 @@
 
 - 💻 Curso Ciências da Computação na Universidade Federal de Itajubá - UNIFEI
 - 🌱 Estudando:
-  - Mensageria com Kafka
-  - APIs com Springboot
-  - Framework Next.js
+  - Kafka
+  - Spring Framework
+  - React/Next.js
   
 </div>
 
