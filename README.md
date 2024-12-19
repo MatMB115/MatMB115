@@ -1,10 +1,11 @@
 ## Olá! Martins aqui
 
-- 💻 Curso Ciências da Computação na Universidade Federal de Itajubá - UNIFEI
+- 🎓 Graduado Ciências da Computação na Universidade Federal de Itajubá - UNIFEI
+- 💻 Mestrando em Ciência e Tecnologia da Computação na UNIFEI
 - 🌱 Estudando:
-  - Kafka
+  - IA generativa e métodos para detecção de mídia falsificada
+  - Next.js
   - Spring Framework
-  - React/Next.js
   
 </div>
 
@@ -54,8 +55,9 @@
 </div>
 
 
-## Alguns projetos que desenvolvi:
-- Nextjs(React), Tailwind, Prisma e PostgreSQL:
+## Projetos:
+- Next.js, Tailwind, Prisma e PostgreSQL:
+  - [Maysu.dev](maysu.xyz) -  Portfólio para expor projetos desenvolvidos e aprofundar meus estudos com react. 
   - [RepiME](https://repime-web.vercel.app) - Desenvolvedor full stack na aplicação web RepiME que busca centralizar, gerenciar e organizar as informações sobre as vagas em Repúblicas e Kitnets disponı́veis na cidade e universidades suportadas.
     
   - [Ivanizia Castro Artesanatos](https://ivaniziacastro.com) / [Ivanizia Castro Admin CMS](https://imgur.com/gallery/7vg5m1a) - Desenvolvedor full stack da aplicação CMS (cadastro de informações do site vitrine e estilização básica) e da vitrine virtual que busca expor os produtos de vestuário confeccionados.
