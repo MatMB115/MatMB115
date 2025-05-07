@@ -3,9 +3,11 @@
 - 🎓 Graduado Ciências da Computação na Universidade Federal de Itajubá - UNIFEI
 - 💻 Mestrando em Ciência e Tecnologia da Computação na UNIFEI
 - 🌱 Estudando:
-  - IA generativa e métodos para detecção de mídia falsificada
-  - Next.js
-  - Spring Framework
+  - IA generativa
+  - Visão Computacional
+    - Métodos para Detecção de Mídia Falsificada
+    - Segmentação Semântica Multimodal para uso da terra
+    - Análise de Séries Temporais com SITS
   
 </div>
 
