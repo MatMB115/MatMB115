@@ -1,7 +1,7 @@
 ## Olá! Martins aqui
 
 - 🎓 Graduado Ciências da Computação na Universidade Federal de Itajubá - UNIFEI
-- 💻 Mestrando em Ciência e Tecnologia da Computação na UNIFEI
+- 💻 Mestrando em Ciência e Tecnologia da Computação na UNIFEI com Foco em Integração de IA e Agricultura.
 - 🌱 Estudando:
   - IA generativa
   - Visão Computacional
