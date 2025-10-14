@@ -7,7 +7,7 @@
   - Visão Computacional
     - Métodos para Detecção de Mídia Falsificada
     - Segmentação Semântica Multimodal para uso da terra
-    - Análise de Séries Temporais com SITS
+  - Análise de Séries Temporais com SITS
   
 </div>
 
