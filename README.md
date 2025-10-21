@@ -54,22 +54,30 @@
   <a href="https://www.mongodb.com/pt-br" target="_blank" rel="noreferrer">
     <img align="center" alt="Maysu-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   </a>
+  <a href="https://qgis.org/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Maysu-QGIS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">
+  </a>
 </div>
 
+### Web e Aplicações Full Stack
 
-## Projetos:
-- Next.js, Tailwind, Prisma e PostgreSQL:
-  - [Maysu.dev](https://maysu.xyz) -  Portfólio para expor projetos desenvolvidos e aprofundar meus estudos com react. 
-  - [RepiME](https://repime-web.vercel.app) - Desenvolvedor full stack na aplicação web RepiME que busca centralizar, gerenciar e organizar as informações sobre as vagas em Repúblicas e Kitnets disponı́veis na cidade e universidades suportadas.
-    
-  - [Ivanizia Castro Artesanatos](https://ivaniziacastro.com) / [Ivanizia Castro Admin CMS](https://imgur.com/gallery/7vg5m1a) - Desenvolvedor full stack da aplicação CMS (cadastro de informações do site vitrine e estilização básica) e da vitrine virtual que busca expor os produtos de vestuário confeccionados.
+* **[Maysu.dev](https://maysu.xyz)** — Portfólio pessoal desenvolvido com **Next.js**, **Tailwind** e **PostgreSQL**.
+* **[RepiME](https://repime-web.vercel.app)** — Aplicação web full stack para gerenciamento de vagas em repúblicas e kitnets.
+* **[Ivanizia Castro Artesanatos](https://ivaniziacastro.com)** / **[CMS Admin](https://imgur.com/gallery/7vg5m1a)** — Sistema CMS e vitrine virtual para exposição de produtos de vestuário.
 
-- Python e Qt5:
-  - [Campo Minado com Design Patterns](https://github.com/MatMB115/minesweeper_mvc_patterns_com221) - Campo minado guiado pelos padrões de projeto MVC e Strategy, o jogo foi desenvolvido com Python 3 e a interface gráfica utiliza a biblioteca Qt5 da linguagem.
-- Python(Flask/SQLAlchemy/Apicalypse) e PostgreSQL:
-  - [Script de Carga com API do IGDB](https://github.com/MatMB115/script_carga_igdb) - Script em python formulado para realizar a carga no banco de dados relacional com PostgreSQL e utilizando ORM SQLAlchemy.
-  - [Back-end do relatório Ad-Hoc](https://github.com/MatMB115/ad_hoc_igdb_back_end) - Desenvolvedor back-end da API personalizada que possibilita consultas dinâmicas às tabelas do banco de dados, permitindo aos usuários definirem suas próprias queries. Esta iniciativa visa proporcionar flexibilidade e autonomia aos usuários, facilitando a interação com o sistema de banco de dados de forma intuitiva e eficiente.
-  
+### Python
+
+* **[Campo Minado (Design Patterns)](https://github.com/MatMB115/minesweeper_mvc_patterns_com221)** — Implementação em Python com padrões MVC e Strategy usando Qt5.
+* **[Script de Carga IGDB](https://github.com/MatMB115/script_carga_igdb)** — Carga de dados via API IGDB com Flask, SQLAlchemy e PostgreSQL.
+* **[Back-end Ad-Hoc IGDB](https://github.com/MatMB115/ad_hoc_igdb_back_end)** — API para consultas dinâmicas em banco de dados relacional.
+* **[Texture Spaceship (OpenGL)](https://github.com/MatMB115/texture-spaceship-opengl)** — Projeto em Python explorando o uso de texturas com OpenGL.
+* **[Simple Timer](https://github.com/MatMB115/Simple-Timer)** — Timer Pomodoro simples que permite usar qualquer arquivo MP3 como som de alarme.
+
+### C e Algoritmos
+
+* **[File Transfer with Sockets](https://github.com/MatMB115/FileTransferWithSocketsInC)** — Transferência de arquivos via socket em C, aplicando mecanismos de segurança TCP/IP em uma conexão UDP.
+* **[CountingSort e E-CountingSort](https://github.com/MatMB115/CountingSort-e-E-CountingSort)** — Implementação eficiente do algoritmo de ordenação Counting Sort em C.
+
 </div>
 <a href = "mailto:matmb@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matmb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
