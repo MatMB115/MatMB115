@@ -61,7 +61,7 @@
 
 ### Web e Aplicações Full Stack
 
-* **[Maysu.dev](https://maysu.xyz)** — Portfólio pessoal desenvolvido com **Next.js**, **Tailwind** e **PostgreSQL**.
+* **[Maysu.dev](https://maysu.com.br)** — Portfólio pessoal desenvolvido com **Next.js**, **Tailwind** e **PostgreSQL**.
 * **[RepiME](https://repime-web.vercel.app)** — Aplicação web full stack para gerenciamento de vagas em repúblicas e kitnets.
 * **[Ivanizia Castro Artesanatos](https://ivaniziacastro.com)** / **[CMS Admin](https://imgur.com/gallery/7vg5m1a)** — Sistema CMS e vitrine virtual para exposição de produtos de vestuário.
 
