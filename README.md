@@ -47,7 +47,7 @@ Tecnologias utilizadas em projetos full stack, manutenção de sistema de gestã
 * **[City Pop Girl Space](https://www.citygirlpop.space/)** — Rádio web com sincronização de áudio em tempo real e interface dinâmica baseada em metadados das faixas. [[Repo](https://github.com/MatMB115/city-girl-pop-player)]
 * **[Maysu.dev](https://maysu.com.br)** — Portfólio profissional desenvolvido com Next.js, Tailwind CSS e integração com banco de dados PostgreSQL.
 * **[RepiMe](https://repime-web.vercel.app/)** — Sistema de gestão e geolocalização de moradias universitárias (repúblicas e kitnets) em Itajubá. [[Repo](https://github.com/MatMB115/repime_web)]
-* **[Ivanizia Castro Artesanatos](https://www.ivaniziacastro.com/)** — Plataforma de e-commerce e vitrine virtual integrada a um sistema de gerenciamento de conteúdo (CMS) proprietário.
+* **[Ivanizia Castro Artesanatos](https://ivaniziacastro.vercel.app/)** — Plataforma de e-commerce e vitrine virtual integrada a um sistema de gerenciamento de conteúdo (CMS) proprietário. Representa primeira versão entregue ao cliente.
   
 ### Contato e Produção Científica
 
